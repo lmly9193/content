@@ -1,0 +1,122 @@
+# Awesome Frontend
+
+- Alpine.js [🔗](https://alpinejs.dev/) -
+- Angular [🔗](https://angular.tw/) -
+- Animate.css [🔗](https://animate.style/)[📂](https://github.com/animate-css/animate.css) - 一個跨瀏覽器的CSS動畫庫，使用起來就像使用非常簡單的東西一樣容易。
+- AOS [🔗](https://michalsnik.github.io/aos/)[📂](https://github.com/michalsnik/aos) - 滾動時動畫的程式庫
+- AutoNumeric [🔗](http://autonumeric.org/)[📂](https://github.com/autoNumeric/autoNumeric/) - AutoNumeric是一個獨立的Javascript程式庫，為國際數字和貨幣提供即時的打字格式化功能。
+- Awesomplete [🔗](https://projects.verou.me/awesomplete/)[📂](https://github.com/leaverou/awesomplete) - 超輕量級、易用、美觀的自動完成功能，不需要任何依賴。
+- Axios [🔗](https://axios-http.com/)[📂](https://github.com/axios/axios) - 一個基於 Promise 的瀏覽器和 Node.js 的 HTTP 客戶端。
+- blueimp Gallery [🔗](https://blueimp.github.io/Gallery/)[📂](https://github.com/blueimp/Gallery) - blueimp  Gallery是一個觸控、響應式且可自定義的圖片和視頻庫、輪播和燈箱，經過優化以適用於行動設備和桌面網頁瀏覽器。它具有滑動、滑鼠和鍵盤導航、過渡效果、幻燈片功能、全螢幕支援和按需內容加載等功能。
+- Bootstrap [🔗](https://getbootstrap.com/)[📂](https://github.com/twbs/bootstrap) - 最受歡迎的HTML、CSS和JavaScript框架，用於開發具有響應式設計、以行動設備為先的網頁專案。
+- Bootstrap Icons [🔗](https://icons.getbootstrap.com/)[📂](https://github.com/twbs/icons) - Bootstrap的官方開源SVG圖標庫。
+- Bulma [🔗](https://bulma.io/)[📂](https://github.com/jgthms/bulma) - Bulma是一個免費、開源的框架，提供了一系列可直接使用的前端組件，您可以輕鬆結合這些組件來建構具有響應式設計的網頁介面。
+- C3.js [🔗](https://c3js.org/)[📂](https://github.com/c3js/c3) - 一個基於D3的可重用圖表庫
+- Chart.js [🔗](https://www.chartjs.org/)[📂](https://github.com/chartjs/Chart.js) - 一個簡單但靈活的JavaScript圖表庫，適用於現代網頁。使用HTML5中的<canvas>標籤創建簡單的圖表。
+- Charts.css [🔗](https://chartscss.org/)[📂](https://github.com/ChartsCSS/charts.css) - Charts.css是一個現代的CSS框架，它使用CSS實用類來將HTML元素樣式化為圖表。
+- CKEditor [🔗](https://ckeditor.com/)[📂](https://github.com/ckeditor/ckeditor5/) - 強大的富文本編輯器框架，具有模塊化架構，現代化的整合，以及協同編輯等功能。
+- Clappr [🔗](http://clappr.io/)[📂](https://github.com/clappr/clappr) - 一個可擴展的網頁媒體播放器
+- Cleave.js [🔗](https://nosir.github.io/cleave.js/)[📂](https://github.com/nosir/cleave.js) - Cleave.js的簡單目的是自動格式化輸入的文字內容，以幫助您。
+- collect.js [🔗](https://collect.js.org)[📂](https://github.com/ecrmnn/collect.js) - 一個方便且無依賴的封裝工具，用於處理陣列和物件。
+- core-js [🔗](https://github.com/zloirock/core-js)[📂](https://github.com/zloirock/core-js) - core-js是一個模塊化的JavaScript標準庫，提供對最新ECMAScript功能的填充(polyfills)支援。
+- Cropper.js [🔗](https://fengyuanchen.github.io/cropperjs/)[📂](https://github.com/fengyuanchen/cropperjs) - JavaScript 圖片裁切工具。
+- crypto-js [🔗](https://github.com/brix/crypto-js)[📂](https://github.com/brix/crypto-js) - 加密標準的JavaScript庫
+- CSS Loader [🔗](https://css-loader.raphaelfabeni.com/)[📂](https://github.com/raphaelfabeni/css-loader) - 只使用一個 div 和純 CSS 就能為您的網路應用程式提供簡單的載入器 ❤️
+- CSSGram [🔗](http://una.github.io/CSSgram/)[📂](https://github.com/una/CSSgram) - 一個用於 Instagram 濾鏡效果的 CSS 庫
+- current-device [🔗](https://matthewhudson.github.io/current-device/)[📂](https://github.com/matthewhudson/current-device) - 根據設備作業系統（iOS、Android、Blackberry、Windows、Firefox OS、MeeGo）、方向（直向 vs  橫向）和類型（平板電腦 vs 行動裝置），最簡單的方式來撰寫基於條件的 CSS 和/或 JavaScript。
+- D3.js [🔗](https://d3js.org/)[📂](https://github.com/d3/d3) - 使用SVG、Canvas和HTML將數據呈現生動起來。
+- daisyUI [🔗](https://daisyui.com)[📂](https://github.com/saadeghi/daisyui) - 最受歡迎的免費開源 Tailwind CSS 組件庫。
+- day.js [🔗](https://day.js.org/)[📂](https://github.com/iamkun/dayjs) - Day.js 是一種僅2kB的不可變日期時間庫，它是 Moment.js 的替代品，並提供相同的現代 API。
+- DPlayer [🔗](https://dplayer.diygod.dev/)[📂](https://github.com/DIYgod/DPlayer) - 哇，這是一款可愛的HTML5彈幕視頻播放器。
+- dragula [🔗](https://bevacqua.github.io/dragula/)[📂](https://github.com/bevacqua/dragula) - 拖放功能簡單到讓人痛苦。
+- DropzoneJS [🔗](https://www.dropzone.dev/)[📂](https://github.com/dropzone/dropzone) - Dropzone 是一款易於使用的拖放庫。它支援圖像預覽並顯示美觀的進度條。
+- echarts [🔗](https://echarts.apache.org/zh/index.html)[📂](https://github.com/apache/echarts) - 一個基於 JavaScript 的開源可視化圖表庫
+- Editor.md [🔗](http://editor.md.ipandao.com/)[📂](https://github.com/pandao/editor.md) - 開源的可嵌入式在線 Markdown 編輯器（組件）。
+- Electron.js [🔗](https://www.electronjs.org/) -
+- flatpickr [🔗](https://flatpickr.js.org/)[📂](https://github.com/flatpickr/flatpickr) - 輕量級、功能強大的JavaScript日期時間選擇器，不需要任何依賴。
+- Flickity [🔗](https://flickity.metafizzy.co/)[📂](https://github.com/metafizzy/flickity) - 支援觸控，響應式，可快速滑動的輪播。
+- Font Awesome [🔗](https://fontawesome.com/)[📂](https://github.com/FortAwesome/Font-Awesome) - Font Awesome 是網路上的圖示庫和工具組，被百萬計的設計師、開發者和內容創作者所使用。
+- formBuilder [🔗](https://formbuilder.online/)[📂](https://github.com/kevinchappell/formBuilder) - formBuilder 是一款用於拖放表單創建的 jQuery 外掛，它具有多種選項並支持翻譯。
+- FullCalendar [🔗](https://fullcalendar.io/)[📂](https://github.com/fullcalendar/fullcalendar) - JavaScript 中的全尺寸拖放事件日曆。
+- GSAP [🔗](https://greensock.com/gsap/)[📂](https://github.com/greensock/GSAP) - GreenSock 的 GSAP JavaScript 動畫庫（包括 Draggable）。
+- Gulp [🔗](https://gulpjs.com/) -
+- Hammer.js [🔗](http://hammerjs.github.io/)[📂](https://github.com/hammerjs/hammer.js) - 一個用於檢測觸控手勢的JavaScript庫。
+- Hexo [🔗](https://hexo.io/zh-tw/) -
+- Hover.css [🔗](http://ianlunn.github.io/Hover/)[📂](https://github.com/IanLunn/Hover) - 這是一組由 CSS3 驅動的懸停效果集合，可以應用於鏈接、按鈕、標誌、SVG、特色圖像等。您可以輕鬆地應用於自己的元素，修改或僅用於獲取靈感。支援  CSS、Sass 和 LESS。
+- html2canvas [🔗](https://html2canvas.hertzen.com/)[📂](https://github.com/niklasvh/html2canvas) - 用 JavaScript 進行螢幕截圖。
+- instant.page [🔗](https://instant.page/)[📂](https://github.com/instantpage/instant.page) - 在一分鐘內讓您的網站頁面立即加載，並將您的轉換率提高1%。
+- Instascan [🔗](https://schmich.github.io/instascan/)[📂](https://github.com/schmich/instascan) - 使用您的網路攝影機進行 HTML5 QR 碼掃描。
+- Intro.js [🔗](https://introjs.com/)[📂](https://github.com/usablica/intro.js) - 輕量級、使用者友善的新手導覽庫。
+- Isotope [🔗](https://isotope.metafizzy.co/)[📂](https://github.com/metafizzy/isotope) - Isotope.js是一個JavaScript庫，它使得在網頁上對項目進行排序、篩選和新增磚瓦佈局變得容易。
+- jQuery [🔗](https://jquery.com/)[📂](https://github.com/jquery/jquery) - jQuery 是一個快速、小巧且功能豐富的 JavaScript  函式庫。它讓HTML文件的遍歷和操作、事件處理、動畫和Ajax變得更為簡單，並使用一個易於使用的API，能跨多種瀏覽器運作。結合多功能性和可擴展性，jQuery已改變了數百萬人撰寫JavaScript的方式。
+- jQuery TWzipcode [🔗](https://code.essoduke.org/twzipcode/)[📂](https://github.com/essoduke/jQuery-TWzipcode) - 建立三碼臺灣郵遞區號下拉清單的 jQuery Plugin - 讀取快速、不需資料庫。
+- jQuery UI [🔗](https://jqueryui.com/)[📂](https://github.com/jquery/jquery-ui) - jQuery UI 是一組精選的使用者介面互動、效果、小工具和主題，建立在 jQuery JavaScript  函式庫之上。無論您是正在建構高度互動的網頁應用程式，或是只需要在表單控制中添加一個日期選擇器，jQuery UI 都是完美的選擇。
+- jQuery.qrcode [🔗](https://github.com/lrsjng/jquery-qrcode)[📂](https://github.com/lrsjng/jquery-qrcode) - jQuery 外掛，用於動態生成 QR 碼。
+- js.Cookie [🔗](https://github.com/js-cookie/js-cookie)[📂](https://github.com/js-cookie/js-cookie) - 一個簡單、輕量級的 JavaScript API，用於處理瀏覽器的 cookies。
+- jsPDF [🔗](https://parall.ax/products/jspdf)[📂](https://github.com/parallax/jsPDF) - 適合所有人的客戶端 JavaScript PDF 生成。
+- Ladda [🔗](https://lab.hakim.se/ladda/)[📂](https://github.com/hakimel/Ladda) - 具有內建載入指示器的按鈕，有效地縮短了行動與反饋之間的間隔。
+- LazySizes [🔗](https://github.com/aFarkas/lazysizes)[📂](https://github.com/aFarkas/lazysizes) - LazySizes是一個用於延遲加載圖片（包括iframe、腳本等）直到它們進入視野的JavaScript庫。
+- Lena.js [🔗](https://www.fellipe.com/demos/lena-js/)[📂](https://github.com/davidsonfellipe/lena.js) - 用於圖像處理的函式庫。
+- Linkify [🔗](https://linkify.js.org/)[📂](https://github.com/Hypercontext/linkifyjs) - Linkify 是一款 JavaScript 外掛。使用 Linkify 可以在純文字中找到鏈接並將它們轉換為 HTML 的 <a>  標籤。它會自動標記網址、#標籤、@提及等內容。
+- Loaders.css [🔗](https://github.com/webpack-contrib/css-loader)[📂](https://github.com/ConnorAtherton/loaders.css) - 令人愉快的、專注於效能的純 CSS 加載動畫。
+- localforage [🔗](https://localforage.github.io/localForage/)[📂](https://github.com/localForage/localForage) - 離線儲存得到改善。使用簡單但強大的API，封裝了IndexedDB、WebSQL或localStorage。
+- Lodash [🔗](https://lodash.com/)[📂](https://github.com/lodash/lodash) - 一款現代的 JavaScript 工具庫，提供模塊化、效能和額外功能。
+- Materialize [🔗](https://materializecss.com/)[📂](https://github.com/Dogfalo/materialize) - 一款基於 Material Design 的現代響應式前端框架。
+- MDBootstrap [🔗](https://mdbootstrap.com/)[📂](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 和 Material Design 使用者介面工具包。
+- Modernizr [📂](https://github.com/Modernizr/Modernizr) - Modernizr 是一款 JavaScript 函式庫，能在使用者的瀏覽器中檢測 HTML5 和 CSS3 功能。
+- Moment.js [🔗](https://momentjs.com/)[📂](https://github.com/moment/moment/) - 在 JavaScript 中解析、驗證、操作和顯示日期。
+- Normalize.css [🔗](http://necolas.github.io/normalize.css/)[📂](https://github.com/necolas/normalize.css) - 一種現代化的 CSS 重設方案。
+- Numeral.js [🔗](http://numeraljs.com/)[📂](https://github.com/adamwdraper/Numeral-js) - 一個用於格式化和操作數字的 JavaScript 函式庫。
+- Nzh [🔗](https://cnwhy.github.io/nzh)[📂](https://github.com/cnwhy/nzh) - 數字轉中文（大寫，小寫）數字，金額。
+- pagemap [🔗](https://larsjung.de/pagemap/)[📂](https://github.com/lrsjng/pagemap) - 網頁的迷你地圖。
+- parallax [🔗](http://matthew.wagerfield.com/parallax/)[📂](https://github.com/wagerfield/parallax) - 一個根據智能設備的方向反應的視差引擎。在沒有陀螺儀或運動檢測硬體的情況下，使用游標的位置代替。
+- parallax.js [🔗](https://pixelcog.github.io/parallax.js/)[📂](https://github.com/pixelcog/parallax.js/) - 一個受Spotify.com啟發的簡單視差滾動效果，以jQuery外掛的形式實現。
+- Parcel [🔗](https://zh-tw.parceljs.org/) -
+- Parsley [🔗](https://parsleyjs.org/)[📂](https://github.com/guillaumepotier/Parsley.js/) - 在不寫一行 JavaScript 的情況下，驗證您的表單，前端。
+- particles.js [🔗](https://vincentgarreau.com/particles.js/)[📂](https://github.com/VincentGarreau/particles.js) - 一個用於創建粒子的輕量級 JavaScript 函式庫。
+- PDF.js [🔗](https://mozilla.github.io/pdf.js/)[📂](https://github.com/mozilla/pdf.js) - JavaScript 中的 PDF 閱讀器。
+- PeerJS [🔗](https://peerjs.com/)[📂](https://github.com/peers/peerjs) - 簡單的 WebRTC 點對點通訊。
+- Plyr [🔗](https://plyr.io/)[📂](https://github.com/sampotts/plyr) - Plyr 是一個簡單、輕量級、易於訪問且可自定義的 HTML5、YouTube 和 Vimeo 媒體播放器，支援現代瀏覽器。
+- PouchDB [🔗](https://pouchdb.com/)[📂](https://github.com/pouchdb/pouchdb) - PouchDB 是一款開源的 JavaScript 資料庫，受到 Apache CouchDB 的啟發，設計用於在瀏覽器中良好運行。PouchDB  的創建是為了幫助網頁開發者構建在離線和在線工作效果一樣好的應用程式。
+- Pure.css [🔗](https://purecss.io/)[📂](https://github.com/pure-css/pure/) - 一組小型的、響應式的 CSS 模組，您可以在每一個網頁項目中使用它們。
+- QRCode.js [🔗](https://davidshimjs.github.io/qrcodejs/)[📂](https://github.com/davidshimjs/qrcodejs) - QRCode.js 是一個用於製作 QRCode 的 JavaScript 函式庫。QRCode.js 支援 HTML5 Canvas 和 DOM  中的表格標籤進行跨瀏覽器操作。QRCode.js 沒有依賴性。
+- Quill [🔗](https://quilljs.com/)[📂](https://github.com/quilljs/quill) - Quill 是一款為了兼容性和擴展性而建立的現代所見即所得編輯器。
+- React [🔗](https://zh-hant.reactjs.org/) -
+- RequireJS [🔗](https://requirejs.org/)[📂](https://github.com/requirejs/requirejs) - RequireJS 是一款 JavaScript 檔案和模組加載器。它優化了在瀏覽器中的使用，但也可以在其他 JavaScript 環境中使用，如  Rhino 和 Node。使用像 RequireJS 這樣的模組腳本加載器將提高您程式碼的速度和質量。
+- screenfull [🔗](https://sindresorhus.com/screenfull/)[📂](https://github.com/sindresorhus/screenfull) - JavaScript 全螢幕 API 的跨瀏覽器使用的簡單封裝。
+- ScrollReveal [🔗](https://scrollrevealjs.org/)[📂](https://github.com/jlmakes/scrollreveal) - ScrollReveal 是一款 JavaScript  函式庫，用於輕鬆地在元素進入/離開視野時進行動畫。它被設計為強大且靈活，但希望您會對它的易於上手感到驚訝。
+- Semantic UI [🔗](https://semantic-ui.com/)[📂](https://github.com/semantic-org/semantic-ui) - Semantic 是一個 UI 組件框架，其基於自然語言中的有用原則。
+- Shr [🔗](https://shr.one/)[📂](https://github.com/sampotts/shr) - 簡單、乾淨且可自定義的社交分享按鈕。
+- Simditor [🔗](https://simditor.tower.im/)[📂](https://github.com/mycolorway/simditor) - Simditor 是一款基於瀏覽器的所見即所得文字編輯器。
+- SimpleMDE [🔗](https://simplemde.com/)[📂](https://github.com/sparksuite/simplemde-markdown-editor) - SimpleMDE 是一個簡單、可嵌入、美觀的 JS markdown 編輯器。
+- Sisyphus [🔗](https://github.com/simsalabim/sisyphus) - 像 Gmail 那樣的客戶端草稿和更多功能。這個插件被開發出來是為了將  html 表單數據保存到 LocalStorage，以便在瀏覽器崩潰、標籤關閉和其他災難後恢復它們。
+- SortableJS [🔗](https://sortablejs.github.io/Sortable/)[📂](https://github.com/SortableJS/Sortable) - 用於可重新排序的拖放列表的 JavaScript 函式庫。
+- SQL.js [🔗](http://sql.js.org/)[📂](https://github.com/sql-js/sql.js/) - 一個在網頁上運行 SQLite 的 JavaScript 函式庫。
+- Summernote [🔗](https://summernote.org/)[📂](https://github.com/summernote/summernote/) - Summernote 是一個 JavaScript 函式庫，幫助您在線創建所見即所得編輯器。
+- SweetAlert [🔗](https://sweetalert.js.org/)[📂](https://github.com/t4t5/sweetalert) - JavaScript "alert" 的美觀替代品。
+- Swiper [🔗](https://swiperjs.com/)[📂](https://github.com/nolimits4web/swiper) - 具有硬件加速轉換的最現代的移動觸摸滑塊
+- tabler [🔗](https://tabler.io/)[📂](https://github.com/tabler/tabler) - Tabler 是一個基於 Bootstrap 5 的免費開源網頁應用 UI 套件，擁有數百個響應式組件和多種佈局。
+- tablesort [🔗](https://tristen.ca/tablesort/demo/)[📂](https://github.com/tristen/tablesort) - 一個使用純 JavaScript 實現的小型表格排序器。
+- tabulator [🔗](http://tabulator.info/)[📂](https://github.com/olifolkerd/tabulator) - 一個易於使用的互動式表格生成 JavaScript 函式庫。
+- Tailwind CSS [🔗](https://tailwindcss.com)[📂](https://github.com/tailwindlabs/tailwindcss) - 一個以實用為先的 CSS 框架，用於快速建立自定義用戶界面。
+- Tailwind Elements [🔗](https://tailwind-elements.com/)[📂](https://github.com/mdbootstrap/Tailwind-Elements) - 用 Tailwind CSS 重新創建的 Bootstrap 組件，但設計更佳且功能更多。
+- Tilt.js [🔗](http://gijsroge.github.io/tilt.js/)[📂](https://github.com/gijsroge/tilt.js) - 一個由 requestAnimationFrame 驅動的微型 60+fps 輕量級視差傾斜效果，適用於 jQuery。
+- Tiny Slider [🔗](http://ganlanyuan.github.io/tiny-slider/demo/)[📂](https://github.com/ganlanyuan/tiny-slider) - 適用於所有目的的原生 JavaScript 滑塊。
+- TinyMCE [🔗](https://www.tiny.cloud/)[📂](https://github.com/tinymce/tinymce) - 世界排名第一的富文本編輯 JavaScript 庫。適用於 React、Vue 和 Angular
+- toastr [🔗](http://www.toastrjs.com/)[📂](https://github.com/CodeSeven/toastr) - 簡單的 JavaScript 吐司通知。
+- tui.calendar [🔗](http://ui.toast.com/tui-calendar)[📂](https://github.com/nhn/tui.calendar) -
+- tui.chart [🔗](http://ui.toast.com/tui-chart/)[📂](https://github.com/nhn/tui.chart) - 用於數據視覺化的美觀圖表。
+- tui.editor [🔗](http://ui.toast.com/tui-editor)[📂](https://github.com/nhn/tui.editor) - Markdown 所見即所得編輯器。GFM 標準 + 可擴展的圖表 & UML。
+- tui.grid [🔗](http://ui.toast.com/tui-grid/)[📂](https://github.com/nhn/tui.grid) - 強大的數據顯示和編輯組件。體驗終極數據轉換器！
+- tui.image-editor [🔗](http://ui.toast.com/tui-image-editor)[📂](https://github.com/nhn/tui.image-editor) - 使用 canvas 的全功能照片圖像編輯器。它使用起來真的很簡單，並且配有很棒的濾鏡。
+- UAParser.js [🔗](https://faisalman.github.io/ua-parser-js/)[📂](https://github.com/faisalman/ua-parser-js) - UAParser.js - 從 User-Agent 和 Client-Hints 數據中檢測瀏覽器、引擎、操作系統、CPU  和設備類型/型號。支援瀏覽器和 node.js 環境。
+- uppy [🔗](https://uppy.io/)[📂](https://github.com/transloadit/uppy) - 下一代為網頁瀏覽器設計的開源檔案上傳器。
+- Video.js [🔗](https://videojs.com/)[📂](https://github.com/videojs/video.js) - Video.js - 開源的 HTML5 視頻播放器。
+- Vite [🔗](https://vitejs.dev/) -
+- Vue.js [🔗](https://v3.cn.vuejs.org/) -
+- Waypoints [🔗](http://imakewebthings.com/waypoints/)[📂](https://github.com/imakewebthings/waypoints) - Waypoints 是一個函式庫，它讓你在滾動到一個元素時執行函數變得容易。
+- Webpack [🔗](https://webpack.js.org/) -
+- WebTorrent [🔗](https://webtorrent.io/)[📂](https://github.com/webtorrent/webtorrent) - WebTorrent 是一個適用於 node.js 和瀏覽器的流媒體 torrent 客戶端。沒錯，就是瀏覽器。它完全使用  JavaScript（網路的語言）撰寫，所以相同的代碼可以在兩種運行環境中運作。
+- Zoom [🔗](http://www.jacklmoore.com/zoom/)[📂](https://github.com/jackmoore/zoom) - 一個 jQuery 插件，用於在滑鼠懸停時放大圖像。
+- Zoomooz [🔗](http://janne.aukia.com/zoomooz/)[📂](https://github.com/jaukia/zoomooz) - Zoomooz 是一個易於使用的 jQuery 插件，可以讓任何網頁元素進行縮放。
+- Xigua Video Player [🔗](https://h5player.bytedance.com/)[📂](https://github.com/bytedance/xgplayer) - 西瓜视频播放器是一個網頁視頻播放器程式庫。它基於一切皆組件化的原則，設計了一個獨立的、可分離的UI組件。更重要的是，它不僅在UI層面上靈活，而且在功能上也非常大膽：它擺脫了視頻加載、緩衝和視頻格式支援的依賴。尤其對於不支援串流mp4的情況下，它可以進行分段加載。這意味著在清晰度、加載控制和視頻節省方面實現無縫切換。它還集成了對FLV、HLS和dash的按需和直播支援。
